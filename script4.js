@@ -3,8 +3,8 @@ function loginUser() {
     const password = document.getElementById("loginPassword").value;
 
     // YOUR LOGIN DETAILS
-    const correctEmail = "user@example.com";
-    const correctPassword = "123456";
+    const correctEmail = "uwillbemine@143";
+    const correctPassword = "uaremylove";
 
     if (email === correctEmail && password === correctPassword) {
         window.location.href = "dashboard.html"; // page to open after login

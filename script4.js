@@ -3,7 +3,7 @@ function loginUser() {
     const password = document.getElementById("loginPassword").value;
 
     // YOUR LOGIN DETAILS
-    const correctEmail = "You&Me@loveu.com";
+    const correctEmail = "loveu.com";
     const correctPassword = "20810128";
 
     if (email === correctEmail && password === correctPassword) {
